@@ -48,6 +48,7 @@ The workflow includes **model training, evaluation, and real-time inference**
 |----------------|--------|
 | Precision      | **98.3%** |
 | Recall         | **95.2%** |
+| F1-score       | **96.6%** |
 | mAP@0.50       | **98.4%** |
 | mAP@0.50:0.95  | **69.9%** |
 | Inference speed| **~3.5 ms/image (Tesla T4)**  /  **~8.7 ms/image (GTX 1050 Ti)**|
