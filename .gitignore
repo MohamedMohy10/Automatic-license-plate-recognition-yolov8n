@@ -1,0 +1,17 @@
+# YOLO / training artifacts
+runs/
+*.cache
+
+# Datasets
+datasets/
+Data/train/
+Data/valid/
+Data/test/
+
+# Python
+__pycache__/
+*.pyc
+env/
+# OS
+.DS_Store
+Thumbs.db

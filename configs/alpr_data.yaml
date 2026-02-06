@@ -1,0 +1,10 @@
+# YOLOv8 dataset config
+path: Data  # dataset root
+train: train/images
+val: valid/images
+test: test/images
+
+# classes
+names:
+  0: license_plate
+nc: 1  # number of classes
