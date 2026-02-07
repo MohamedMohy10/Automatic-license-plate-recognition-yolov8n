@@ -63,3 +63,8 @@ The workflow includes **model training, evaluation, and real-time inference**
 
 ---
 
+## Usage (for testing)
+
+inside the `scripts` folder in your terminal run `detect.py`, you only need to provide an image your prompt should look like :
+
+**``` python detect.py --image [YOUR IMAGE PATH] ```**
